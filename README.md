@@ -84,43 +84,21 @@ Progress report akan dilakukan setiap 2 minggu, dengan rincian sebagai berikut :
 - [x] Refactor notebook for supervised learning and unsupervised learning
 
 * Final Week (18 August - finish)
-- [ ] Creating documentation for Data Science
-- [ ] Final archive for project
-- [ ] Prepare for Exam
+- [x] Creating documentation for Data Science
+- [x] Final archive for project
+- [x] Prepare for Exam
 
 Lebih lengkapnya dapat mengarah ke link [wiki](https://github.com/William9923/future-data-ecommerce/wiki) sebagai berikut
-
-#### Documentation & Deliveribles -> see [drive](https://drive.google.com/drive/folders/1EhdzxzMnBAIJyZU9aXpXrXs58gSnTMKU?usp=sharing) 
 
 ## Overview
 Proyek ini digunakan untuk menjawab pertanyaan - pertanyaan bisnis serta menghasilkan suatu solusi inovatif yang menarik melalui penerapan statistik, visualisasi data yang baik dan mudah dilihat serta menemukan permasalahan - permasalahan yang dapat diselesaikan dengan bantuan supervised dan unsupervised learning guna memperoleh insight baru dalam dunia E-commerce.
 
-## Data Warehouse Schema
-[Link](https://dbdiagram.io/d/604272d1fcdcb6230b22cecc)
-
-### Methods Used (in the future)
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Supervised Modeling
-* Unsupervised Modeling
+## Documentation
+Kindly refer to this [link](https://medium.com/@williamong1400/project-1-solving-problem-in-e-commerce-with-data-ac7ed38d7b4)
 
 ### Technologies
 * Python
 * Pandas, jupyter
-
-### Project Structure
-```
-root
-├───bin              <- Trained and serialized models, model predictions, or model summaries
-├───data             <- Raw and processed data
-├───figure           <- Figure used for documentation
-├───notebooks        <- Notebook for experimenting and finalizing results
-├───reports          <- Reports from training model
-├───src              <- Script to train models.
-├───scripts          <- Source code for use in this project.
-```
-## Usage
 
 ### Author
 * [William](https://william9923.github.io/)
